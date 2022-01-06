@@ -7,7 +7,7 @@ Steve has just graduated with a finance degree and has taken on his first client
 
 ![Year_Value_OG](https://github.com/agordon16/Stock-Analysis/blob/c5717586fae9de35bc9450e336a7a4be07f627d7/VBA%20Challenge%20Images/Year_Value_Original_Comparison.png)
 
-  * **Macro Review** - The more obvious difference came in execution times for each macro. After refactoring the “yearValueAnalysis” macro, the run time was much shorter thus making it more efficient.
+  * **Macro Review** - The most obvious difference came in execution times for each macro. After refactoring the “yearValueAnalysis” macro, the run time was much shorter thus making it more efficient.
  
 **_Original Macro_**
 ![All_Stocks_Analysis_2017_OG](https://github.com/agordon16/Stock-Analysis/blob/c5717586fae9de35bc9450e336a7a4be07f627d7/VBA%20Challenge%20Images/All_Stocks_Analysis_2017_OG(YearEnd).png)
