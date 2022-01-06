@@ -1,13 +1,13 @@
 # Stock-Analysis
 Analyze data from a group of stocks to ascertain their performance over a two-year period. 
 ## Overview
-Steve has just graduated with a finance degree and has taken on his first client, his parents. Steve’s clients are looking to invest in green energy and want to fully invest in DAQO New Energy Corp.  Steve wishes to complete an analysis of several green energy stocks, including DAQO, to assist his clients in making an informed decision on where to invest their money. Steve is hoping to help his clients to diversify their portfolio and avoid “putting all their eggs in one basket”.
+Steve has just graduated with a finance degree and has taken on his first client, his parents. Steve’s clients are looking to invest in green energy and want to fully invest in DAQO New Energy Corp(ticker **DQ**).  Steve wishes to complete an analysis of several green energy stocks, including DAQO, to assist his clients in making an informed decision on where to invest their money. Steve is hoping to help his clients to diversify their portfolio and avoid “putting all their eggs in one basket”.
 ### Analysis Results
-  * **Stock Analysis** - Based on **_both_** stock analysis macros, DQ (and most green energy stocks) experienced a substantial shift in return values from one year to the next. Most stocks did well in 2017 but did not do well in 2018. Looking at the return figures, TERP stayed closest to constant in terms of return over both years. 
+  * **Stock Analysis** - Based on **_both_** stock analysis macros, **DQ** (and most green energy stocks) experienced a substantial shift in return values from one year to the next. Most stocks did well in 2017 but did not do well in 2018. Looking at the return figures, **TERP** stayed closest to constant in terms of return over both years. This could point to potential volatility in the market with regards to green energy stocks, something for Steve and his clients to consider. 
 
 ![Year_Value_OG](https://github.com/agordon16/Stock-Analysis/blob/c5717586fae9de35bc9450e336a7a4be07f627d7/VBA%20Challenge%20Images/Year_Value_Original_Comparison.png)
 
-  * **Macro Review** - The most obvious difference came in execution times for each macro. After refactoring the “yearValueAnalysis” macro, the run time was much shorter thus making it more efficient.
+  * **Macro Review** - The most obvious difference came in execution times for each macro. After refactoring the “yearValueAnalysis” macro, the run time was much shorter thus making it more efficient. In fact, the speed of execution improved by around 85%.
  
 **_Original Macro_**
 ![All_Stocks_Analysis_2017_OG](https://github.com/agordon16/Stock-Analysis/blob/c5717586fae9de35bc9450e336a7a4be07f627d7/VBA%20Challenge%20Images/All_Stocks_Analysis_2017_OG(YearEnd).png)
